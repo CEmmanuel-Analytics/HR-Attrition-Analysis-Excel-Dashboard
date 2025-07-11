@@ -36,7 +36,7 @@ To build a real-world HR analytics dashboard that can help decision-makers:
 - **Laboratory Technicians** had the highest attrition count (27%)
 
 ### 4. **Attrition by Age Group**
-- Employees **above 40** had both the highest “No” (387) and “Yes” (102) attrition counts
+- Employees **above 40** had both the highest “No” (102) and “Yes” (387) attrition counts
 - Followed by those **under 30**, then **30–40**
 
 ### 5. **Monthly Income by Department**
@@ -75,7 +75,7 @@ This HR Attrition Dashboard shows that employee turnover is influenced by age, d
 
 ## 👨🏽‍💻 Created By:
 **Chibueze Emmanuel Chukwuma**  
-Aspiring Remote Data Analyst  
+ Data Analyst  
 [www.linkedin.com/in/
 emmanuel-chibueze
  
